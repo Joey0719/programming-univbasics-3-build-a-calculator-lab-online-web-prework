@@ -26,7 +26,7 @@ end
 
 describe "modulo"
   it "returns the reminder of two numbers "
-    expect(modulo(''))
+    expect(modulo('34,'))
 
 end
 
