@@ -1,7 +1,7 @@
 "bundler"
 
 describe "addition"
-  it "adds two numbers"
+  it "adds two numbers together"
 
 def subtraction(num1, num2)
 
