@@ -19,8 +19,8 @@ describe "multiplication"
 end
 
 describe "division"
-  it "divides"
-  end
+  it "divides one number by another"
+    expect(division(''))
 
 end
 
