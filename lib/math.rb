@@ -21,10 +21,11 @@ end
 describe "division"
   it "divides one number by another"
     expect(division('50,2')).to eq('25')
-
+ end
 end
 
-def modulo(num1, num2)
+describe "modulo"
+  it ""
 
 end
 
