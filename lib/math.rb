@@ -2,7 +2,7 @@
 
 describe "addition"
   it "adds two numbers together"
-    expect(addition('5,4')).to
+    expect(addition('5,4')).to eq
 def subtraction(num1, num2)
 
 end
