@@ -32,6 +32,6 @@ end
 
 describe "square_root"
   it "returns the square root of a number"
-    expect(squ)
-
+    expect(square_root('81,9')).to eq('9')
+ end
 end
