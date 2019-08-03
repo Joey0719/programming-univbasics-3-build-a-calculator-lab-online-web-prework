@@ -12,7 +12,8 @@ describe "subtraction"
  end
 end
 
-describe ""
+describe "multiplication"
+  it "mutliply"
 
 end
 
