@@ -31,6 +31,7 @@ describe "modulo"
 end
 
 describe "square_root"
-  it ""
+  it "returns the square root of a number"
+    expect()
 
 end
