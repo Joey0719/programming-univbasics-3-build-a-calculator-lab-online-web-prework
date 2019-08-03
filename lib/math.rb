@@ -20,7 +20,7 @@ end
 
 describe "division"
   it "divides one number by another"
-    expect(division(''))
+    expect(division('50,2')).to eq('25')
 
 end
 
