@@ -25,7 +25,7 @@ describe "division"
 end
 
 describe "modulo"
-  it ""
+  it "returns "
 
 end
 
