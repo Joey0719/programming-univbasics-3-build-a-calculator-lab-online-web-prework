@@ -8,7 +8,7 @@ end
 
 describe "subtraction"
   it "subtracts two numbers from each other"
-def division(num1, num2)
+    expect(subtraction())
 
 end
 
