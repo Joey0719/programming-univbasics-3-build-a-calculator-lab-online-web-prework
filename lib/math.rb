@@ -15,7 +15,7 @@ end
 describe "multiplication"
   it "mutliplies two numbers together"
     expect(multiplication('4,30')).to eq('120')
-end
+ end
 end
 
 
