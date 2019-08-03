@@ -9,10 +9,10 @@ end
 describe "subtraction"
   it "subtracts two numbers from each other"
     expect(subtraction('10,5')).to eq('5')
-
+ end
 end
 
-def multiplication(num1, num2)
+describe ""
 
 end
 
