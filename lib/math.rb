@@ -8,7 +8,7 @@ end
 
 describe "subtraction"
   it "subtracts two numbers from each other"
-    expect(subtraction())
+    expect(subtraction('10,5')).to eq('5')
 
 end
 
