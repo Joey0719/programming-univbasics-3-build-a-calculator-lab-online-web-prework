@@ -25,7 +25,8 @@ describe "division"
 end
 
 describe "modulo"
-  it "returns "
+  it "returns the reminder of two numbers "
+    expect(modulo(''))
 
 end
 
