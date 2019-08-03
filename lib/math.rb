@@ -32,6 +32,6 @@ end
 
 describe "square_root"
   it "returns the square root of a number"
-    expect()
+    expect(squ)
 
 end
