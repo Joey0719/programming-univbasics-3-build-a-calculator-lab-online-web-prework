@@ -13,7 +13,8 @@ describe "subtraction"
 end
 
 describe "multiplication"
-  it "mutliply"
+  it "mutliplies two numbers together"
+    expect(multiplication())
 
 end
 
