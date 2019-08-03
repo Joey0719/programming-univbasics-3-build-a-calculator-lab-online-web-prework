@@ -25,11 +25,12 @@ describe "division"
 end
 
 describe "modulo"
-  it "returns the reminder of two numbers "
-    expect(modulo('34,'))
-
+  it "returns the remainder of two numbers "
+    expect(modulo('34,5')).to eq('4')
+ end
 end
 
-def square_root(num)
+describe "square_root"
+  it ""
 
 end
